@@ -1,3 +1,3 @@
 # OOP-Project
 
-Simple project of coffee machine
+Simple project of Office system
